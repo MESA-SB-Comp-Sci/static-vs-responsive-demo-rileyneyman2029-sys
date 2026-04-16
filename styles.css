@@ -39,30 +39,51 @@ p {
 /* Compleate challenge down here */
 
 .Red {
-  background-color: red;
+  background-color: black;
   display:inline-block;
-  height: 15vw;
+  height: 50vh;
   width: 24vw;
+  color:white;
+  font-size: 2rem;
+  padding: 1rem;
 }
 
 .Blue {
-  background-color: blue;
+  background-color: pink;
   display:inline-block;
-  height: 15vw;
+  height: 50vh;
   width: 24vw;
+  color:white;
+  font-size: 2rem;
+  padding: 1rem;
 }
 
 .Yellow{
-  background-color: yellow;
+  background-color: orange;
   display:inline-block;
-  height: 15vw;
+  height: 50vh;
   width: 24vw;
+  color:white;
+  font-size: 2rem;
+  padding: 1rem;
 }
 
 .Green{
-  background-color: green;
+  background-color: purple;
   display:inline-block;
-  height: 15vw;
+  height: 70vh;
   width: 24vw;
+  color:white;
+  font-size: 3rem;
+  padding: 1rem;
+  border: 10px solid olivedrab;
 }
+
+.title{
+  font-size: 3vw;
+  color:rgb(175, 175, 15);
+  margin-bottom: 3vh;
+}
+
+
 

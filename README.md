@@ -89,13 +89,13 @@ Drag your browser window from very wide to very narrow and back again. Then writ
 
 1. Which parts of your layout stayed flexible?
 
-
+Everything in my layout stayed flexible
 
 2. Did anything break or overflow (cause a sliding bar to apperer)?
 
-
+No
 
 3. If someone opened this page on a phone, what do you think it would look like?
 
-
+It would look slimmer but the text would stay in the same proportion
 
